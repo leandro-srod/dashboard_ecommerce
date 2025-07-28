@@ -42,6 +42,8 @@ This project was built with the following technologies:
 - DELETE /produtos/:id/imagens/:publicId: Deletes a specific image of a product from Cloudinary.
 
 ### Project Structure
+
+```
 .
 ├── backend/
 │   ├── src/
@@ -72,6 +74,7 @@ This project was built with the following technologies:
 │   ├── package.json
 │   └── vite.config.js
 └── README.md
+````
 
 ### Contribution
 
